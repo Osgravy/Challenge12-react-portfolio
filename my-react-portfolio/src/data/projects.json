@@ -1,0 +1,11 @@
+
+[
+    {
+      "id": 1,
+      "title": "Project 1",
+      "image": "/images/project1.jpg",
+      "deployedUrl": "https://project1.com",
+      "githubUrl": "https://github.com/you/project1"
+    }
+    
+  ]
